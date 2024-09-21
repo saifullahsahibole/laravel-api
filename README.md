@@ -161,8 +161,8 @@ This project is a Laravel-based API for managing users, projects, and timesheets
 
 ## Example Credentials
 For testing, you can login a user with the following seeded credentials:
-- **email:** john.doe@example.com
-- **password:** password
+- **Email:** john.doe@example.com
+- **Password:** password
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
