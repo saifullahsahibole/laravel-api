@@ -12,7 +12,7 @@ This project is a Laravel-based API for managing users, projects, and timesheets
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/saifullahsahibole/laravel-api.git
 Navigate to the Project Directory:
 
 bash
