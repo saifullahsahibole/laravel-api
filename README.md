@@ -144,7 +144,7 @@ This project is a Laravel-based API for managing users, projects, and timesheets
 
 
 ## Database
-- The database structure is included in the `database/your_database_file.sql`.
+- The database structure is included in the `database/laravel_project.sql`.
 
 ## Instructions to Access the API
 1. **Run the Project:**
